@@ -1,36 +1,25 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
+Tema:
  - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
  
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
+# Exercicios resolvidos
 
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 44<br>
+**Conteúdo da Disciplina**: Projeto de Analise e algorimos<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0042303  |  Carlos Daniel de Godoy Barros Nascimento |
+| 18/0121847  |  Helder Lourenço de Abreu Marques |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Alguns exercicios reolvidos que almejam resolver problema usando Dijikstra, A*, algoritmo de prim e Kruscal
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
