@@ -15,6 +15,20 @@ Tema:
 ## Sobre 
 Alguns exercicios reolvidos que almejam resolver problema usando Dijikstra, A*, algoritmo de prim e Kruscal
 
+### Para exercicios em Linguagem C
+
+#### Handshake rule:
+
+<a href="https://moj.naquadah.com.br/contests/bcr-EDA2-2022_1-trabalho/handshakes-rule" target=_blank>Handshake rule</a></h3>
+
+<p>para esse problema é bem similar a um conhecido por apresentar um ator famoso o ator kevin beacon onde com até 6 apertos de mão pode se encontrar uma relação entre as pessoas. Este problema foi apresentado pelo professor Bruno Ribas na disciplina de Eda 2 e criado pelo aluno Thalisson Alves. Adaptado para encaixar no contexto de algoritmos de menor caminho.<p>
+
+<p>Execução:<p>
+
+```bash 
+gcc Handshake rule.c
+```
+
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
