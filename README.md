@@ -68,8 +68,8 @@ python (Nome_do_arquivo).py
 
 Os inputs podem ser manuais usando dos dados nos sites(Hyperlinks) de cada questão/exercicio
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## Link demonstrando o uso 
+[Vídeo no youtube](https://youtu.be/ygQ-DK0Ql_0).
 
 
 
