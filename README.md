@@ -15,7 +15,7 @@ Tema:
 ## Sobre 
 Alguns exercicios reolvidos que almejam resolver problema usando Dijikstra, A*, algoritmo de prim e Kruscal
 
-### Para exercicios em Linguagem C
+### Para exercicios em python
 
 #### Handshake rule:
 
@@ -26,8 +26,10 @@ Alguns exercicios reolvidos que almejam resolver problema usando Dijikstra, A*, 
 <p>Execução:<p>
 
 ```bash 
-gcc Handshake rule.c
+gcc handshake.py
 ```
+
+![Handshake Rule](/Imagens/handshake.png)
 
 ## Screenshots
 
@@ -36,6 +38,10 @@ gcc Handshake rule.c
 
 ### Exercício n° 3 - Roads in berland
 ![Evidência Roads in Berland](/Imagens/roads_in_berland.png)
+
+### Exercício n° 4 - the classic problem
+![The classic problem](/Imagens/the_classic_problem.png)
+
 
 ## Instalação 
 **Linguagem**: Python<br>
