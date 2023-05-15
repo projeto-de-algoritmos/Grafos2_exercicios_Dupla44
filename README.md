@@ -36,12 +36,16 @@ python handshake.py
 ### Exercício n° 2 - Itinerário do papai noel
 ![Evidência Itinerário do papai noel](/Imagens/itinerario_papai_noel.png)
 
+<a href=" https://www.beecrowd.com.br/judge/pt/problems/view/1764" target=_blank>Itinerario do papai noel</a></h3>
+
 ### Exercício n° 3 - Roads in berland
 ![Evidência Roads in Berland](/Imagens/roads_in_berland.png)
 
+<a href="https://codeforces.com/problemset/problem/25/C" target=_blank>Roads in Berland</a></h3>
 ### Exercício n° 4 - the classic problem
 ![The classic problem](/Imagens/the_classic_problem.png)
 
+<a href="https://codeforces.com/contest/464/problem/E" target=_blank>The Classic Problem</a></h3>
 
 ## Instalação 
 **Linguagem**: Python<br>
