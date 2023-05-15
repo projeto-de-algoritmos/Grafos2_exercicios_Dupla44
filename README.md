@@ -30,7 +30,9 @@ gcc Handshake rule.c
 ```
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### Exercício n° 2 - Itinerário do papai noel
+![Evidência Itinerário do papai noel](/Imagens/itinerario_papai_noel.png)
 
 ## Instalação 
 **Linguagem**: Python<br>
