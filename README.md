@@ -26,7 +26,7 @@ Alguns exercicios reolvidos que almejam resolver problema usando Dijikstra, A*, 
 <p>Execução:<p>
 
 ```bash 
-gcc handshake.py
+python handshake.py
 ```
 
 ![Handshake Rule](/Imagens/handshake.png)
