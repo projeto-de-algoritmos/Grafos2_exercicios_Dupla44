@@ -34,6 +34,9 @@ gcc Handshake rule.c
 ### Exercício n° 2 - Itinerário do papai noel
 ![Evidência Itinerário do papai noel](/Imagens/itinerario_papai_noel.png)
 
+### Exercício n° 3 - Roads in berland
+![Evidência Roads in Berland](/Imagens/roads_in_berland.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 **Framework**: (caso exista)<br>
